@@ -1,7 +1,7 @@
 <!-- markdownlint-disable MD028 MD033 MD045 -->
 AUTO REINSTALER UBUNTU 20.04 :
 ```bash
-curl -O https://raw.githubusercontent.com/arivpnstores/reinstall/main/reinstall.sh && bash reinstall.sh ubuntu 20.04
+curl -O https://raw.githubusercontent.com/bukhorimukhammad/reinstall/main/reinstall.sh && bash reinstall.sh ubuntu 20.04
 ```
 AUTO REINSTALLER WINDOWS SERVER 2025 :
 ```bash
